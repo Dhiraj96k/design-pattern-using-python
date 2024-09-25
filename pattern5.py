@@ -1,4 +1,4 @@
-n = 5
+n = int(input("Enter Input: "))
 alph = 65
 for i in range(0, n):
     print(" " * (n-i), end=" ")
