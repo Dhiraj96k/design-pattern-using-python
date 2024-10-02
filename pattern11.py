@@ -5,5 +5,7 @@ result = ""
 
 for i in range(len(value)):
     while n >= value[i]:
-        result += num[i]  
+        result += num[i]  # Add the Roman numeral corresponding to value[i]
+        n -= value[i]     # Subtract the value from n
+
 print(result)
