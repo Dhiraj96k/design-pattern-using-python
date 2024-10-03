@@ -1,6 +1,7 @@
 #this file contain all the logical quetion that questions help us to building logical thinking
 
--pattern.py file gives outout :-
+-#pattern.py file gives outout :-
+
          1       2       3       4       5       6       7       8       9       10
          2       4       6       8       10      12      14      16      18      20
          3       6       9       12      15      18      21      24      27      30
