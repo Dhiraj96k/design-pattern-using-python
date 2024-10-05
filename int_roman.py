@@ -11,5 +11,5 @@ def int_roman(n):
     
     print(add)  
 
-
-int_roman(12)
+n=int(input("Enter the number="))
+int_roman(n)
