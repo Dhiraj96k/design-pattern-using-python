@@ -12,6 +12,7 @@ class Solution(object):
         return median
 
 
-
+demo = Solution()
+print(demo.findMedianSortedArrays([3, 4, 5], [76, 55, 55]))
 
         
