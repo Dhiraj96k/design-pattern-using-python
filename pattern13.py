@@ -9,3 +9,7 @@ while i<=k:
     n=n//10
     i+=1
 print(sum)
+if(sum==num):
+    print(f"{num}  is armstrong number")
+else:
+    print(f"{num}  is not armstrong number")
