@@ -1,6 +1,6 @@
 #this file contain all the logical quetion that questions help us to building logical thinking
 
--#pattern.py file gives outout :-
+-pattern.py file gives outout :-
 
          1       2       3       4       5       6       7       8       9       10
          2       4       6       8       10      12      14      16      18      20
@@ -12,3 +12,9 @@
          8       16      24      32      40      48      56      64      72      80
          9       18      27      36      45      54      63      72      81      90
          10      20      30      40      50      60      70      80      90      100
+
+-pattern2.p file when we insert insert any number it give back us only single digit of that i.e its 
+ we call addtion of number until becomes single digit
+          i/p=  33434556
+
+         output is : 6
