@@ -15,6 +15,6 @@
 
 -pattern2.p file when we insert insert any number it give back us only single digit of that i.e its 
  we call addtion of number until becomes single digit
-          i/p=  33434556
-
+         
+         input =  33434556
          output is : 6
