@@ -34,4 +34,13 @@
           *********
          ***********
 
--pattern5.py : 
+-pattern5.py : printing pyramid of alphabets
+
+         Enter Input: 7
+                 A 
+                A B
+               A B C
+              A B C D
+             A B C D E
+            A B C D E F
+           A B C D E F G
